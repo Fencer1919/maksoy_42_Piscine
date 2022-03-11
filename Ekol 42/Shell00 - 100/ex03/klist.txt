@@ -1,0 +1,6 @@
+redentials cache: API:B4A38EA7-DB25-441B-9B36-02C1BA02F229
+        Principal: maksoy@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 17:11:49 2021  Nov 25 03:11:49 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Nov 24 17:11:51 2021  Nov 25 03:11:49 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
